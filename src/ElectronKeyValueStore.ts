@@ -1,4 +1,4 @@
-import { IStorage } from 'util-test-types';
+import { IStorage } from 'terrestrial-util-types';
 
 export const ELECTRON_KEY_VALUE_STORAGE: IStorage | any = {
     FILE_NAME: 'userData/electron-key-value-storage.json',
